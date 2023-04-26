@@ -17,9 +17,9 @@ https://www.learn-c.org/en/
 - [x] Pointers
 - [x] Structures
 - [x] Function arguments by reference
-- [ ] Dynamic allocation
-- [ ] Arrays and Pointers
-- [ ] Recursion
+- [x] Dynamic allocation
+- [x] Arrays and Pointers
+- [x] Recursion
 - [ ] Linked lists
 - [ ] Binary trees
 - [ ] Unions
